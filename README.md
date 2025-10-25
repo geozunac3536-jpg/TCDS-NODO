@@ -5,9 +5,14 @@ Este repositorio documenta el estado actual del programa TCDS, incluyendo su nú
 **Autor**: Genaro Carrasco Ozuna  
 **ORCID**: [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
 **Palabras clave**: coherencia, sincronón, submilimétrico, EFET, CSL-H, verificación experimental, semántica científica  
-**Licencia**: MIT (puedes cambiarla si prefieres CC-BY 4.0)
+**Licencia**: MIT
 
-## Contenido
+## Documento principal
 
-- `Nodo_de_investigaciones.pdf`: Documento base con teoría, límites y ruta experimental.
-- `schema.jsonld`: Metadatos semánticos para indexación científica.
+Visualiza directamente el PDF aquí:
+
+📄 [`Nodo_de_investigaciones.pdf`](Nodo_de_investigaciones.pdf)
+
+## Metadatos semánticos
+
+🧠 [`schema.jsonld`](schema.jsonld)
