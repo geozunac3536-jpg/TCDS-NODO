@@ -1,18 +1,23 @@
 # Nodo de Actualización TCDS — Teoría Cromodinámica Sincrónica
 
-Este repositorio documenta el estado actual del programa TCDS, incluyendo su núcleo formal, parámetros libres, límites experimentales, criterios de verificación y entregables próximos. El documento PDF adjunto resume los cuatro canales experimentales (EFET, submilimétrico, relojes/cavidades, CSL-H) y sus KPIs.
+Este nodo documenta la evolución técnica y conceptual del Canon TCDS, integrando cromodinámica sincrónica como marco de coherencia científica y operativa.
 
-**Autor**: Genaro Carrasco Ozuna  
-**ORCID**: [https://orcid.org/0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)  
-**Palabras clave**: coherencia, sincronón, submilimétrico, EFET, CSL-H, verificación experimental, semántica científica  
-**Licencia**: MIT
+## 📄 Documento Central
 
-## Documento principal
+- [Ver PDF embebido](./tcds-nodo.pdf)
+- [Descargar PDF](./tcds-nodo.pdf)
 
-Visualiza directamente el PDF aquí:
+## 📚 Citación
 
-📄 [`Nodo_de_investigaciones.pdf`](Nodo_de_investigaciones.pdf)
+> Carrasco Ozuna, Genaro (2025). *Nodo de Actualización TCDS — Teoría Cromodinámica Sincrónica*. TCDS-NODO. Disponible en: https://geozunac3536-jpg.github.io/TCDS-NODO/. ORCID: [0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910). Licencia: MIT. DOI: pendiente de Zenodo.
 
-## Metadatos semánticos
+## 🔐 Licencia
 
-🧠 [`schema.jsonld`](schema.jsonld)
+Este trabajo está licenciado bajo los términos de la [Licencia MIT](./LICENSE).
+
+## 🔗 Enlaces Relacionados
+
+- [TCDS-UNIFICADO](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO/)
+- [TCDS-LICENCIAS](https://geozunac3536-jpg.github.io/TCDS-LICENCIAS/)
+- [Sincronón](https://geozunac3536-jpg.github.io/SINCRONON/)
+- [ORCID](https://orcid.org/0009-0005-6358-9910)
