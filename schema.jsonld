@@ -5,19 +5,29 @@
   "author": {
     "@type": "Person",
     "name": "Genaro Carrasco Ozuna",
-    "identifier": "https://orcid.org/0009-0005-6358-9910"
+    "identifier": "https://orcid.org/0009-0005-6358-9910",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "TCDS-NODO"
+    }
   },
-  "datePublished": "2025-10-24",
-  "keywords": [
-    "coherencia",
-    "sincronón",
-    "submilimétrico",
-    "EFET",
-    "CSL-H",
-    "verificación experimental",
-    "semántica científica"
-  ],
+  "datePublished": "2025-10-25",
+  "inLanguage": "es",
   "license": "https://opensource.org/licenses/MIT",
-  "encodingFormat": "application/pdf",
-  "url": "https://github.com/GenaroCarrascoOzuna/TCDS-Nodo/blob/main/Nodo_de_investigaciones.pdf"
+  "keywords": [
+    "TCDS",
+    "actualización científica",
+    "cromodinámica sincrónica",
+    "documentación modular",
+    "defensa operativa",
+    "metadatos semánticos",
+    "indexación académica"
+  ],
+  "url": "https://geozunac3536-jpg.github.io/TCDS-NODO/",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "pendiente-de-Zenodo"
+  },
+  "description": "Nodo técnico y documental para actualizar el Canon TCDS mediante cromodinámica sincrónica. Optimizado para trazabilidad científica, defensa legal y reproducibilidad operativa."
 }
