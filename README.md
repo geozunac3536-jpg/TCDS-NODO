@@ -13,11 +13,12 @@ Este nodo documenta la evolución técnica y conceptual del Canon TCDS, integran
 
 ## 🔐 Licencia
 
-Este trabajo está licenciado bajo los términos de la [Licencia MIT](./LICENSE).
+Este trabajo está licenciado bajo los términos de la [Licencia_MIT](./LICENSE)
 
 ## 🔗 Enlaces Relacionados
 
-- [TCDS-UNIFICADO](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO/)
+-[TCDS-UNIFICADO](https://geozunac3536-jpg.github.io/TCDS-UNIFICADO)
 - [TCDS-LICENCIAS](https://geozunac3536-jpg.github.io/TCDS-LICENCIAS/)
 - [Sincronón](https://geozunac3536-jpg.github.io/SINCRONON/)
 - [ORCID](https://orcid.org/0009-0005-6358-9910)
+[0009-0005-6358-9910](https://orcid.org/0009-0005-6358-9910)
