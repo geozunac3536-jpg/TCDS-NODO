@@ -4,7 +4,7 @@ Este nodo documenta la evolución técnica y conceptual del Canon TCDS, integran
 
 ## 📄 Documento Central
 
-- [Ver PDF embebido](./tcds-nodo.pdf)
+- [Ver PDF embebido](./nodo_de_investigaciones.pdf)
 - [Descargar PDF](./tcds-nodo.pdf)
 
 ## 📚 Citación
